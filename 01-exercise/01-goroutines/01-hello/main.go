@@ -12,6 +12,7 @@ func fun(s string) {
 	}
 }
 
+// here we 'll discuss different way to call go routine :).
 func main() {
 	// Direct call
 	fun("direct call")
